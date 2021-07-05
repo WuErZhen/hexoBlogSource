@@ -1,13 +1,13 @@
 ---
 title: ios使用Xcode查看崩溃日志
-date: 2021-07-04 23:43:12
+date: 2020-08-06 22:24:12
 tags:
 ---
-#ios
+# ios
 
-##Xcode 查看崩溃日志
+## Xcode 查看崩溃日志
 
-```aidl
+```
 
 1. 将设备链接至电脑
 2. Xcode -- > Window -- > Devices and Simulators

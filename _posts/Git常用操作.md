@@ -1,9 +1,9 @@
 ---
 title: git
-date: 2021-07-04 23:43:12
+date: 2020-12-01 20:14:15
 tags:
 ---
-#Git操作
+# Git操作
 
 Git 是一个开源的分布式版本控制系统，可以有效高速的处理任何或小或大的项目
 
@@ -13,11 +13,11 @@ Github 则是一个开源的代码库
 
 网址https://github.com/
 
-##项目部署
+## 项目部署
 
 部署git的ssh（这个步骤是将机器上面的凭证发到github上面，之后机器就不用验证了）
 
-```aidl
+```
 1. 终端ssh-keygen -o
 2. cd ~/.ssh/
 3. ls
@@ -26,9 +26,9 @@ Github 则是一个开源的代码库
 6. 回到Git，个人中心Settings - SSH and GPG keys
 7. 粘贴秘钥配置一下
 ```
-##Git 常用操作命令
+## Git 常用操作命令
 
-```aidl
+```
 1. git clone #克隆项目
 2. git add .  #添加所有修改过的文件到缓冲区
 3. git commit -m

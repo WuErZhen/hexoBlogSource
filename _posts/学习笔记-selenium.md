@@ -1,10 +1,10 @@
 ---
 title: 学习笔记-selenium
-date: 2021-07-04 16:43:33
+date: 2021-05-15 16:43:33
 tags:
 ---
-#selenium学习笔记
-##背景和原理
+# selenium学习笔记
+## 背景和原理
 Selenium 是一个 Web 应用的自动化框架。
 通过它，我们可以写出自动化程序，像人一样在浏览器里操作web界面。
     
@@ -14,7 +14,7 @@ Selenium客户端库 <-> 浏览器驱动 <-> 浏览器
 ```
     
 
-##操作流程
+## 操作流程
 1.导入webdriver模块
 
 ```
@@ -35,16 +35,16 @@ wd.get('http://www.baidu.com')
 6.退出
 
 
-##选择元素
+## 选择元素
 
 
 
 
-##操控元素
+## 操控元素
 
 
 
-#css表达式
+# css表达式
 通过 CSS Selector 选择单个元素的方法是
 ```
 find_element_by_css_selector(CSS Selector参数)
@@ -59,9 +59,9 @@ tag名直接写
 #id值
 .class值
 ```
-#frame切换
+# frame切换
 
 
 
 
-#
+# 

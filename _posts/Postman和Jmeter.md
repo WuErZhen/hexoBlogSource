@@ -1,13 +1,15 @@
 ---
-title: postman和jmeter
-date: 2021-07-04 23:43:12
+title: postman和jmeter调试接口
+date: 2020-07-23 19:25:13
 tags:
 ---
-##postman 调试
+# postman和jmeter来调试接口
+
+## postman 调试
 可以很方便的用curl来重新调接口：发专辑或者退款
 
 开发调试报错信息也用curl比较多，可以规避掉cookie和参数获取的问题
-```aidl
+```
 1.获取curl信息：客户端用Charles抓，浏览器F12
 
 2.启动postman：右上角import — Rawtext - Continue
@@ -15,9 +17,9 @@ tags:
 3.修改即可
 ```
 
-##jmeter
+## jmeter
 同postman，可以用来调用接口，进行常规的接口测试和性能测试
-```aidl
+```
 新增测试计划
 一、线程组——测试计划-添加-线程组
 	1 HTTP请求——线程组-添加-Sampler-HTTP请求
