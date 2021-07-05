@@ -1,7 +1,9 @@
 ---
 title: adb常用操作
 date: 2020-07-04 23:43:12
-tags:
+tag: adb
+category: 业务测试
+description: "adb常用操作学习"
 ---
 # Adb
 

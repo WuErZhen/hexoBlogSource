@@ -1,7 +1,9 @@
 ---
-title: git
+title: git常用操作
 date: 2020-12-01 20:14:15
-tags:
+tags:git
+category: 业务测试
+description: "本文主要是对git的基本操作学习，包括项目部署、常用操作命令"
 ---
 # Git操作
 

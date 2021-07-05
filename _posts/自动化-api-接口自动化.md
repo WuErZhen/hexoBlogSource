@@ -1,7 +1,9 @@
 ---
-title: Api接口测试
-date: 2021-01-20 22:15:06
-tags: 接口测试
+title: Api接口自动化测试
+date: 2021-06-20 22:15:06
+tags: Python
+category: 自动化测试
+description: "使用requests库进行api接口测试学习"
 ---
 # Api接口测试
 

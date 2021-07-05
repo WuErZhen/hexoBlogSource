@@ -1,7 +1,9 @@
 ---
 title: postman和jmeter调试接口
 date: 2020-07-23 19:25:13
-tags:
+tags:postman
+category: 测试工具
+description: "介绍下postman调试curl和jmeter基础操作"
 ---
 # postman和jmeter来调试接口
 
