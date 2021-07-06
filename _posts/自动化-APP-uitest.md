@@ -3,8 +3,8 @@ layout:
   - draft
 title: APP自动化测试框架uitest的使用
 date: 2021-07-04 23:43:12
-tag: uitest
-category: 自动化测试
+tag: "uitest"
+category: "自动化测试"
 description: "小喜马APP自动化测试框架uitest的使用"
 ---
 # APP自动化测试
