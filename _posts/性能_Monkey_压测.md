@@ -1,7 +1,7 @@
 ---
 title: monkey使用
 date: 2021-01-09 20:25:01
-tags:
+tags: "monkey"
 ---
 # Monkey测试
 monkey是一款很强大的Android性能测试工具，可以用来进行压测

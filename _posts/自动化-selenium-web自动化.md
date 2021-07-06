@@ -1,8 +1,8 @@
 ---
 title: 学习笔记-selenium
 date: 2021-05-15 16:43:33
-tags:selenium
-category: 自动化测试
+tags: "selenium"
+category: "自动化测试"
 description: "web自动化框架selenium学习"
 ---
 # selenium学习笔记

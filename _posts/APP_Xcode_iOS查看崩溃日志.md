@@ -1,8 +1,8 @@
 ---
 title: ios使用Xcode查看崩溃日志
 date: 2020-08-06 22:24:12
-tags:ios
-category: APP测试
+tags: "ios"
+category: "APP测试"
 description: "整理了一下Xcode中抓取ios崩溃日志的流程"
 ---
 # ios

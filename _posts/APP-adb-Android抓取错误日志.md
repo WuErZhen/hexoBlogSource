@@ -1,8 +1,8 @@
 ---
 title: Android抓取错误日志
 date: 2020-08-06 20:43:15
-tags:Monkey
-category: 性能测试
+tags: "Monkey"
+category: "性能测试"
 description: "使用Monkey来对APP进行普通压测方法"
 ---
 # Android
